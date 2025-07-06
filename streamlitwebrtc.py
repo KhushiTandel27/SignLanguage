@@ -77,8 +77,8 @@ webrtc_streamer(
         "iceServers": [
             {"urls": ["stun:bn-turn2.xirsys.com"]},
             {
-                "username": "rJhsnYer6656GcqAKdFv-Z3-h8aNNR6PkqNzxkF776vL4EUhx0bJaEjH4rQmjjLqAAAAAGhXjPFTaWduTGFuZ3VhZ2U=",
-                "credential": "3b64b224-4f25-11f0-8c9c-0242ac140004",
+                "username": "ZdWW_LU0vhSwUbdRsfshcAfoqnkUqZBth8JHswYvT2M2hHIZ-V_1zfAsAuXtcNHhAAAAAGhqN0dLaHVzaGk=",
+                "credential": "5779fd18-5a45-11f0-b0dc-0242ac140004",
                 "urls": [
                     "turn:bn-turn2.xirsys.com:80?transport=udp",
                     "turn:bn-turn2.xirsys.com:3478?transport=udp",
