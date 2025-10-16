@@ -13,7 +13,7 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 st.set_page_config(page_title="Live Hand Sign Recognition", layout="wide")
 st.title("🎥 Live Hand Sign Recognition")
 
-labels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+labels = ["Applause", "Call", "Go-Right", "Good-Job", "Good-Luck", "Greet", "Hi", "Ok", "Pointing-Down", "Pointing-Left", "Pointing-Right", "Pointing-Up", "Power", "Question", "Receiving", "Rock-On", "Small-Amount", "Sorry", "Stop", "Thank-You", "Thumbs-Down", "Victory", "Writing", "You"]
 offset = 20
 imgSize = 300
 
